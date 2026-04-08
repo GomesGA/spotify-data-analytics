@@ -80,12 +80,13 @@ python script.py
 
 Os dados gerados pelo pipeline alimentam um painel gerencial focado em UI/UX.
 
-🔗 **[Clique aqui para aceder ao Dashboard Interativo](https://lookerstudio.google.com/reporting/b3cc6264-c035-4614-8c98-e24c68ddeaee)**
+🔗 **[Clique aqui para visualizar o Dashboard Interativo](https://lookerstudio.google.com/reporting/b3cc6264-c035-4614-8c98-e24c68ddeaee)**
 
 ### Principais Análises Visuais:
 * **Filtro Dinâmico:** Segmentação unificada (Cross-filtering) para 1 mês, 6 meses ou 1 ano.
-* **Top Artistas:** Grelha visual de classificação renderizando imagens dinâmicas.
-* **Variedade vs. Volume:** Comparação entre *Donut Chart* (estilos escutados por artista único) e *Treemap* (estilos consumidos em volume absoluto de reproduções).
+* **Top Artistas:** Grelha visual de classificação renderizando imagens dinâmicas e interativas.
+* **Análise de Variedade:** Gráfico de anel (Donut Chart) evidenciando a distribuição de estilos musicais com base na diversidade de artistas escutados.
+* **Top Músicas (Cross-filtering):** Tabela detalhada de faixas que interage com todo o painel ao ser selecionada.
 
 ---
 *Desenvolvido como projeto de portfólio aplicando conceitos de Engenharia de Dados e Business Intelligence.*
