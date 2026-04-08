@@ -1,0 +1,4 @@
+﻿Periodo;Periodo_Nome;Ordem;Dias
+1_mes;Último Mês;1;30
+6_meses;Últimos 6 Meses;2;180
+12_meses;Último Ano;3;365

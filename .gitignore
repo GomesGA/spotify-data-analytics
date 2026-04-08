@@ -1,0 +1,11 @@
+# Ambientes Python e dependências
+__pycache__/
+.venv/
+*.pyc
+
+# Segurança (NUNCA subir chaves de API)
+.env
+
+# Ficheiros Temporários e Cache
+cache/
+*.json

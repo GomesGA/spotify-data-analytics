@@ -1,0 +1,86 @@
+﻿Artista;Periodo;Quantidade_Periodos;Aparece_1mes;Aparece_6meses;Aparece_12meses;12_meses;1_mes;6_meses
+$uicideboy$;['12_meses'];1;False;False;True;14.0;;
+50 Cent;['1_mes'];1;True;False;False;;33.0;
+A$AP Rocky;['1_mes', '6_meses'];2;True;True;False;;25.0;24.0
+Aaron May;['1_mes'];1;True;False;False;;40.0;
+Agnes Obel;['12_meses'];1;False;False;True;45.0;;
+Amy Winehouse;['12_meses'];1;False;False;True;18.0;;
+BIBI;['1_mes', '6_meses', '12_meses'];3;True;True;True;41.0;1.0;5.0
+BLACKPINK;['1_mes', '6_meses'];2;True;True;False;;21.0;47.0
+Baby Keem;['1_mes', '6_meses', '12_meses'];3;True;True;True;8.0;4.0;2.0
+Baco Exu do Blues;['6_meses'];1;False;True;False;;;35.0
+Bad Bunny;['1_mes', '6_meses', '12_meses'];3;True;True;True;29.0;15.0;6.0
+Benson Boone;['12_meses'];1;False;False;True;35.0;;
+Big K.R.I.T.;['12_meses'];1;False;False;True;37.0;;
+BigXthaPlug;['1_mes', '6_meses'];2;True;True;False;;2.0;14.0
+Billie Eilish;['1_mes', '6_meses', '12_meses'];3;True;True;True;1.0;16.0;13.0
+Brone;['1_mes'];1;True;False;False;;32.0;
+Bruno Mars;['12_meses'];1;False;False;True;39.0;;
+Celeste;['1_mes', '6_meses', '12_meses'];3;True;True;True;20.0;37.0;33.0
+Chance Peña;['6_meses'];1;False;True;False;;;48.0
+Clipse;['6_meses'];1;False;True;False;;;43.0
+Dave;['6_meses'];1;False;True;False;;;30.0
+David Kushner;['12_meses'];1;False;False;True;3.0;;
+Denzel Curry;['1_mes', '6_meses', '12_meses'];3;True;True;True;4.0;23.0;37.0
+Doechii;['1_mes'];1;True;False;False;;38.0;
+Don Toliver;['12_meses'];1;False;False;True;33.0;;
+Doncesão;['1_mes', '6_meses'];2;True;True;False;;5.0;17.0
+Drake;['6_meses', '12_meses'];2;False;True;True;42.0;;18.0
+EsDeeKid;['1_mes', '6_meses'];2;True;True;False;;29.0;11.0
+FINNEAS;['12_meses'];1;False;False;True;10.0;;
+Gracie Abrams;['6_meses', '12_meses'];2;False;True;True;47.0;;28.0
+Hearts2Hearts;['1_mes', '6_meses'];2;True;True;False;;12.0;32.0
+Hozier;['12_meses'];1;False;False;True;21.0;;
+ILLIT;['1_mes', '6_meses', '12_meses'];3;True;True;True;16.0;3.0;1.0
+J. Cole;['1_mes', '6_meses', '12_meses'];3;True;True;True;7.0;14.0;3.0
+JENNIE;['1_mes', '6_meses'];2;True;True;False;;26.0;9.0
+JID;['1_mes', '6_meses', '12_meses'];3;True;True;True;36.0;39.0;40.0
+Joji;['1_mes', '6_meses', '12_meses'];3;True;True;True;28.0;19.0;4.0
+KISS OF LIFE;['6_meses'];1;False;True;False;;;36.0
+Kanye West;['1_mes', '6_meses', '12_meses'];3;True;True;True;9.0;24.0;39.0
+Kendrick Lamar;['1_mes', '6_meses', '12_meses'];3;True;True;True;6.0;7.0;8.0
+Killa Bi;['1_mes'];1;True;False;False;;31.0;
+LE SSERAFIM;['1_mes', '6_meses'];2;True;True;False;;22.0;21.0
+LISA;['6_meses'];1;False;True;False;;;34.0
+Linkin Park;['12_meses'];1;False;False;True;17.0;;
+Little Simz;['12_meses'];1;False;False;True;31.0;;
+Lupe Fiasco;['1_mes'];1;True;False;False;;28.0;
+Måneskin;['6_meses', '12_meses'];2;False;True;True;46.0;;38.0
+NMIXX;['6_meses'];1;False;True;False;;;50.0
+Naïka;['1_mes', '6_meses'];2;True;True;False;;9.0;29.0
+New West;['12_meses'];1;False;False;True;11.0;;
+NewJeans;['1_mes', '6_meses'];2;True;True;False;;8.0;10.0
+Oliver Tree;['12_meses'];1;False;False;True;38.0;;
+Olivia Dean;['6_meses'];1;False;True;False;;;49.0
+Olivia Rodrigo;['6_meses', '12_meses'];2;False;True;True;27.0;;25.0
+Orla Gartland;['12_meses'];1;False;False;True;44.0;;
+Outkast;['1_mes'];1;True;False;False;;36.0;
+Post Malone;['12_meses'];1;False;False;True;30.0;;
+RAYE;['1_mes', '6_meses'];2;True;True;False;;27.0;20.0
+ROSÉ;['6_meses'];1;False;True;False;;;46.0
+Red Velvet;['6_meses'];1;False;True;False;;;31.0
+Rodrigo Ogi;['1_mes'];1;True;False;False;;35.0;
+Sabrina Carpenter;['6_meses', '12_meses'];2;False;True;True;50.0;;27.0
+ScHoolboy Q;['12_meses'];1;False;False;True;34.0;;
+Scarlxrd;['12_meses'];1;False;False;True;43.0;;
+Stromae;['12_meses'];1;False;False;True;48.0;;
+System Of A Down;['1_mes', '6_meses'];2;True;True;False;;10.0;16.0
+TOKIODK;['1_mes', '6_meses'];2;True;True;False;;11.0;26.0
+TWICE;['1_mes', '6_meses'];2;True;True;False;;17.0;15.0
+Tai Verdes;['12_meses'];1;False;False;True;26.0;;
+Tate McRae;['1_mes', '6_meses', '12_meses'];3;True;True;True;25.0;34.0;44.0
+The Kid LAROI;['12_meses'];1;False;False;True;19.0;;
+The Marías;['1_mes', '6_meses', '12_meses'];3;True;True;True;40.0;18.0;23.0
+The Neighbourhood;['6_meses'];1;False;True;False;;;45.0
+The Pretty Reckless;['1_mes', '6_meses', '12_meses'];3;True;True;True;12.0;6.0;12.0
+Tom Odell;['6_meses', '12_meses'];2;False;True;True;23.0;;22.0
+Tommy Richman;['12_meses'];1;False;False;True;32.0;;
+Travis Scott;['12_meses'];1;False;False;True;22.0;;
+Tyler, The Creator;['6_meses', '12_meses'];2;False;True;True;13.0;;19.0
+XXXTENTACION;['12_meses'];1;False;False;True;24.0;;
+YUNGBLUD;['12_meses'];1;False;False;True;15.0;;
+Yeat;['1_mes', '6_meses', '12_meses'];3;True;True;True;5.0;20.0;42.0
+aespa;['1_mes', '6_meses', '12_meses'];3;True;True;True;49.0;13.0;7.0
+d4vd;['12_meses'];1;False;False;True;2.0;;
+i-dle;['6_meses'];1;False;True;False;;;41.0
+jev.;['1_mes'];1;True;False;False;;30.0;
